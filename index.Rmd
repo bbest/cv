@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Ben Best's resume"
+author: Ben Best
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -14,184 +14,622 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Ben Best, PhD](https://ecoquants.com/images/logo_EcoQuants_black.svg){width=50%}
+<!--![Ben Best, PhD](https://ecoquants.com/images/ben.jpg){width=80%}-->
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
+- <i class="fa fa-envelope"></i> ben@ecoquants.com
+- <i class="fa fa-github"></i> [github.com/bbest](https://github.com/bbest)
+- <i class="fa fa-phone"></i> +1 805-705-9770
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Instructor, trained in Software and Data Carpentry, developing webinars, 2-day workshops and semester courses in environmental data science.
 
-- Full experience with next generation sequencing data analysis.
+- Spatial ecologist expert in commercial ArcGIS and open-source R and Python techniques for environmental problem solving.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Full stack developer from system administration, cloud computing, relational database design and front-end web development.
+
+- Experienced in statistical analysis, species distribution modeling and machine learning.
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
-
+Last updated: `r Sys.Date()`
 
 
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Ben Best, PhD {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Environmental Data Scientist
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
-
+Currently working on automation and visualization of environmental data science workflows. Looking for academic home to promulgate these technical skills for solving pressing environmental problems.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Ph.D.	in Marine Science and Conservation
 
-B.S. in Information and Computing Sciences
+Nicholas School of the Environment, Duke
 
-Beijing, China
+Durham, NC
 
-2010
+2016
 
-Thesis: Dyadic wavelet and its application in edge detection
+Dissertation: [Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks](http://dukespace.lib.duke.edu/dspace/handle/10161/12101)
 
-### University of Chinese Academy of Sciences
+### M.S. in Environmental Sciences
+Nicholas School of the Environment, Duke
 
-M.S. in Bioinformatics
+Durham, NC
 
-Beijing, China
+2007
 
-2014
+Thesis: Geospatial Modeling of Habitat and Connectivity
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+### B.A. in Geography, B.S. in Aquatic Biology 
+University of California Santa Barbara (UCSB)
+ 
+Santa Barbara, CA
 
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
+1998
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Environmental Data Scientist & Founder
 
-SupStat Inc.
+EcoQuants, LLC
 
-Beijing, China
+Santa Barbara, CA
 
-2014
+present - 2016
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
 
-### Bioinformatician
+### Lecturer
 
-My Health Gene Technology Co., Ltd.
+Bren School of Env. Sci. & Mgmt., UCSB
 
-Beijing, China
+Santa Barbara, CA
 
-2015 - 2016
+2016 - 2014
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
 
+### Senior Analyst, Ocean Health Index
+
+National Center for Ecological Analysis & Synthesis, UCSB
+
+Santa Barbara, CA
+
+2016 - 2014
+
+
+### Research Associate, Marine Geospatial Ecology Lab
+
+Nicholas School of the Environment, Duke
+
+Durham, NC
+
+2008 - 2002
+
+
+### Computer & Network Technologist
+
+Bren School of Env. Sci. & Mgmt., UCSB
+
+Santa Barbara, CA
+
+2002 - 2000
+
+
+### Database Developer & IT Consultant
+
+European Human Rights Foundation
+
+Brussels, Belgium
+
+1999 - 1998
+
+
+### Lab and Scuba Diving Research Assistant
+
+Marine Biogeography Lab of Dr. Steven Gaines, UCSB
+
+Santa Barbara, CA
+
+1997 - 1998
+
+
+\pagebreak
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Geographic Information Systems (GIS)
+Cal State Channel Islands
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Camarillo, CA
 
-Beijing, China
+2020
 
-2014
+### GIS
+Environmental Studies, UCSB
 
-### Computational Biology and Bioinformatics.
+Santa Barbara, CA
 
-Teaching assistant of GBS CB2-201 courses at UAB
+2019
 
-AL, USA
+### GIS
+Bren School of Env. Sci. & Mgmt., UCSB
 
-2016 - 2017
+Santa Barbara, CA
 
+2016
 
-Selected Publications and Posters {data-icon=file}
+### Environmental Informatics
+Bren School of Env. Sci. & Mgmt., UCSB
+
+Santa Barbara, CA
+
+2016
+
+### Landscape Ecology
+Bren School of Env. Sci. & Mgmt., UCSB
+
+Santa Barbara, CA
+
+2015
+
+### Advanced Topics in GIS
+Bren School of Env. Sci. & Mgmt., UCSB
+
+Santa Barbara, CA
+
+2014, 2015
+
+### Marine GIS
+Nicholas School of the Env., Duke
+
+Durham, NC
+
+2012
+
+Awards {data-icon=award}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### NOPP Excellence in Partnering Award
+Project: [Marine Biodiversity Observation Network](https://marinebon.org) (EcoQuants)
 
-Poster for 2013 International Conference of Genomics
+Santa Barbara, CA
 
-Qingdao, China
+2017
 
-2014
 
-**Yu L**, Chen B, Zhang Z.
+### Special Achievement in GIS 
+Software: [Marine Geospatial Ecology Tools](https://mgel.env.duke.edu/mget/) (Duke). Award presented by Jack Dangermond at Esri International User Conference.
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+Durham, NC
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+2012
+
+### Strategic Environmental Research and Development Program Project of the Year in Sustainable Infrastructure 
+Project: [Mapping Cetacean Habitat](https://mgel.env.duke.edu/mapping-cetacean-habitat) (Duke)
+
+Durham, NC
+
+2008
+
+### Audrey Lynn Copeland Memorial Award for Excellence in Ecology Evolution and Marine Biology
+Nominated by Dr. Steven Gaines (UCSB)
+
+Santa Barbara, CA
+
+1998
+
+### President’s Undergraduate Research Fellowship
+Proposed evaluating genetic distance of continental versus island samples to test rafting on kelp holdfasts by brooding sea cucumbers (UCSB)
+
+Santa Barbara, CA
+
+1997
+
+### Howard Hughes Medical Internship
+Worked with Dr. Peter Collins manipulating hormonal levels of fish in lab and slicing the brains to evaluate efficacy for mariculture purposes (UCSB)
+
+Santa Barbara, CA
+
+1996
+
+
+\pagebreak
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### 34. Improving the IEA approach using principles of open data science
+
+_Estuaries and Coasts_ 
 
 N/A
 
-2016 
+_submitted_
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+Bastille K, S Hardison, L DeWitt, J Brown, J Samhouri, S Gaichas, S Lucey, K Kearney, **BD Best**, S Cross, S Large, E Spooner
+
+
+### 33. Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction
+
+_Marine Policy_ 
+
+N/A
+
+_accepted_
+
+**Best BD**, ME Visalli\*, RB Cabral, W Cheung, N Clark, C Garilao, K Kaschner, …, DJ McCauley<br>
+\* _shared first authorship_
+
+
+### 32. [Submarine Cable Analysis for U.S. Marine Renewable Energy Development](https://www.nrel.gov/docs/fy20osti/71125.pdf)
+
+Golden, CO: National Renewable Energy Laboratory. NREL/TP-5000-71125.
+
+N/A
+
+2019
+
+**Best BD**, L Kilcher
+
+
+### 31. [Global Observational Needs and Resources for Marine Biodiversity](https://www.frontiersin.org/articles/10.3389/fmars.2019.00367/full)
+
+_Frontiers in Marine Science_ 
+
+N/A
+
+2019
+
+Canonico G, PL Buttigieg, E Montes, CA Stepien, D Wright, ..., **BD Best**, ... BJ Murton
+
+
+### 30. [Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs for birds in space and cetaceans in time](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215722)
+
+_PLoS ONE_
+
+N/A
+
+2019
+
+**Best BD**, PN Halpin
+
+
+### 29. [A Global Database of Intentionally Deployed Wrecks to Serve as Artificial Reefs](https://www.sciencedirect.com/science/article/pii/S2352340918315622)
+
+_Data in Brief_
+
+N/A
+
+2018
+
+Ilieva I,  L Jouvet, L Seidelin, **BD Best**, S Aldabet, R da Silva, D Amor A Ovando
+ 
+
+### 28. [Advancing Marine Biological Observations linking the Essential Ocean Variables (EOVs) and Essential Biodiversity Variables (EBVs) Frameworks](https://www.frontiersin.org/articles/10.3389/fmars.2018.00211/full)
+
+_Frontiers in Marine Science_ 
+
+N/A
+
+2018
+
+Muller-Karger FE, P Miloslavich, NJ Bax, S Simmons, MJ Costello, IS Pinto, G Canonico, W Turner, M Gill, E Montes, **BD Best**, J Pearlman, P Halpin, ..., G Geller
+
+
+### 27. [Satellite sensor requirements for monitoring essential biodiversity variables of coastal ecosystems](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1682)
+
+_Ecological Applications_ 
+
+N/A
+
+2018
+
+Muller-Karger FE, E Hestir, C Ade, K Turpie, D Roberts, D Siegel, R Miller, …, F Davis, **BD Best**, …
+
+
+### 26. [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
+
+_Nature Ecology & Evolution_ 
+
+N/A
+
+2017
+
+Lowndes JS, **BD Best**, C Scarborough, JC Afflerbach, MR Frazier, CC O'Hara, N Jiang, BS Halpern
+
+
+### 25. [Habitat-based cetacean density models for the U.S. Atlantic and Gulf of Mexico](http://doi.org/10.1038/srep22615)
+
+_Scientific Reports_ 
+
+N/A
+
+2016
+
+Roberts JJ, **BD Best**, L Mannocci, E Fujioka, PN Halpin, DL Palka, LP Garrison, KD Mullin, TVN Cole, CB Khan, WA McLellan, DA Pabst, GG Lockhart
+
+
+### 24. [Best practices for assessing ocean health in multiple contexts using tailorable frameworks](https://peerj.com/articles/1503/)
+
+_PeerJ_ 
+
+N/A
+
+2015
+
+Lowndes, JSS, EJ Pacheco, **BD Best**, C Scarborough, C Longo, SK Katona, BS Halpern
+
+
+### 23. [Updated marine mammal distribution and abundance estimates in coastal British Columbia](https://archive.iwc.int/pages/terms.php?ref=5745&k=&search=%21collection15&url=pages%2Fdownload_progress.php%3Fref%3D5745%26ext%3Dpdf%26k%3D%26alternative%3D2515%26search%3D%21collection15%26offset%3D0%26archive%3D0%26sort%3DDESC%26order_by%3Drelevance)
+
+_Journal of Cetacean Research and Management_ 
+
+N/A
+
+2015
+
+**Best BD**, CH Fox, R Williams, PN Halpin, PC Paquet
+
+
+### 22. [Patterns and Emerging Trends in Global Ocean Health](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117863)
+
+_PLoS ONE_ 
+
+N/A
+
+2015
+
+Halpern BS, CL Longo, JSS Lowndes, **BD Best**, M Frazie, SK Katona, … ER Selig
+
+
+### 21. [Assessing the health of the U.S. west coast with a regional-scale application of the Ocean Health Index](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0098995)
+
+_PLoS ONE_ 
+
+N/A
+
+2014
+
+Halpern BS, CL Longo, C Scarborough, D Hardy, **BD Best**, S Doney, S Katona, K McLeod, A Rosenberg, J Samhouri
+
+
+### 20. [Data Integration for Conservation: Leveraging Multiple Data Types to Advance Ecological](http://www.sciencedirect.com/science/article/pii/S1574954114000041)
+
+_journal_ 
+
+N/A
+
+2014
+
+Fujioka E, CY Kot, BP Wallace, **BD Best**, J Moxley, J Cleary, B Donnelly, PN Halpin
+
+
+### 19. [A Regional-Scale Ocean Health Index for Brazil](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092589)
+
+_PLoS ONE_ 
+
+N/A
+
+2014
+
+Elfes CT, CL Longo, BS Halpern, D Hardy, C Scarborough, **BD Best**, T Pinheiro, G Dutra
+
+
+### 18. [Habitat-specific larval dispersal and marine connectivity: Implications for reserve design](http://www.esajournals.org/doi/abs/10.1890/ES13-00119.1)
+
+_Ecosphere.l_ 
+
+N/A
+
+2013
+
+Anadón JD, M del Mar Mancha-Cisneros, **BD Best**, LR Gerber
+
+
+\pagebreak
+
+### 17. [Assessing global marine biodiversity status within a coupled socio-ecological perspective](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0060284)
+
+_PLoS One_ 
+
+N/A
+
+2013
+
+Selig ER, CL Longo, BS Halpern, **BD Best**, D Hardy, CT Elfes, C Scarborough, KM Kleisner, SK Katona
+
+
+### 16. [An index to assess the health and benefits of the global ocean](http://www.nature.com/nature/journal/v488/n7413/full/nature11397.html)
+
+_Nature_ 
+
+N/A
+
+2012
+
+Halpern BS, C Longo, D Hardy, KL McLeod, JF Samhouri, SK Katona, K Kleisner, SE Lester, J O’Leary, M Ranelletti, AA Rosenberg, C Scarborough, ER Selig, **BD Best**, DR Brumbaugh, FS Chapin III, LB Crowder, KL Daly, SC Doney, C Elfes, MJ Fogarty, SD Gaines, K Jacobsen, LB Karrer, HM Leslie, E Neeley, D Pauly, S Polasky, B Ris, K St. Martin, GS Stone, UR Sumaila, D Zeller
+
+
+### 15. [Online Cetacean Habitat Modeling System for the U.S. East Coast and Gulf of Mexico](http://www.int-res.com/abstracts/esr/v18/n1/p1-15/)
+
+_Endangered Species Research_ 
+
+N/A
+
+2012
+
+**Best BD**, PN Halpin, AJ Read, E Fujioka, CP Good, EA LaBrecque, RS Schick, JJ Roberts, LJ Hazen, SS Qian, DL Palka, LP Garrison, WA McLellan
+
+
+### 14. [Community structure in pelagic marine mammals at large spatial scales](http://www.int-res.com/abstracts/meps/v434/p165-181/)
+
+_Marine Ecology Progress Series_ 
+
+N/A
+
+2011
+
+Schick RS, PN Halpin, AJ Read, DL Urban, **BD Best**, CP Good, JJ Roberts, EA LaBrecque, DL Palka, H Whitehead, WA McClellan, DA Pabst, C Dunn
+
+
+### 13. [Dynamic habitat models: a new perspective in analyzing fisheries bycatch](http://rspb.royalsocietypublishing.org/content/278/1722/3191.short)
+
+_Ecology Letters_ 
+
+N/A
+
+2011
+
+Zydelis R, RL Lewison, SA Shaffer, JE Moore, AM Boustany, JJ Roberts, M Sims, DC Dunn, **BD Best**, Y Tremblay, MA Kappes, PN Halpin, DP Costa, LB Crowder
+
+
+### 12. [Are all seeds equal? Spatially explicit comparisons of seed fall and sapling recruitment in a tropical forest](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2010.01571.x/full)
+
+_Ecology Letters_ 
+
+N/A
+
+2010
+
+Swamy V, J Terborgh,KG Dexter, **BD Best**, P Alvarez, F Cornejo
+
+
+### 11. [Spatio-temporal gap analysis of OBIS-SEAMAP project data: Assessment and way forward](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012990)
+
+_PLoS ONE_ 
+
+N/A
+
+2010
+
+Kot CY, E Fujioka, LJ Hazen LJ, **BD Best**, AJ Read, PN Halpin
+
+
+### 10. [Marine Geospatial Ecology Tools: an integrated framework for ecological geoprocessing with ArcGIS, Python, R, MATLAB, and C++](http://www.sciencedirect.com/science/article/pii/S1364815210000885)
+
+_Ecosystem Modeling & Software_ 
+
+N/A
+
+2010
+
+Roberts JJ, **BD Best**, DC Dunn, EA Treml, PN Halpin
+
+
+\pagebreak
+
+### 9. [Program Design: Developing a Comprehensive Data Strategy](http://ian.umces.edu/press/books/publication/259/integrating_and_applying_science_a_handbook_for_effective_coastal_ecosystem_assessment_2010-05-10/)
+
+Chapter 11 in _Integrating and Applying Science: A handbook for effective coastal ecosystem assessment_.  IAN press.
+
+N/A
+
+2010
+
+Lookingbill T,  MT Trice, S Carter, G Sanders G, **BD Best**, BJ Longstaff, JM Hawkey
+
+
+### 8. [Near bottom current direction inferred from comatulid crinoid feeding postures on the Terre Adélie and George V shelf, East Antarctica](http://www.sciencedirect.com/science/article/pii/S0967064510001876)
+
+_Deep Sea Research Part II: Topical Studies in Oceanography_ 
+
+N/A
+
+2010
+
+Eléaume M, RJ Beaman, HJ Griffiths, **BD Best**, MK Riddle, V Wadley, SR Rintoul, LG Hemery, N Améziane
+
+
+### 7. [Predictive Marine Mammal Modeling for Queen Charlotte Basin, British Columbia](http://www.raincoast.org/files/WAS_report/Predictive_Marine_Mammal_modeling_QCB_BC_2.pdf)
+
+Technical Report for Raincoast Conservation Foundation. 120 p.
+
+N/A
+
+2009
+
+**Best BD**, PN Halpin
+
+
+### 6. [Striking the right balance in right whale conservation](http://www.nrcresearchpress.com/doi/abs/10.1139/f09-115#.UYrGaitaRD8)
+
+_Canadian Journal of Fisheries and Aquatic Sciences_ 
+
+N/A
+
+2009
+
+Schick RS, PN Halpin, AJ Read, CK Slay, SD Kraus, BR Mate, MF Baumgartner, JJ Roberts, **BD Best**, CP Good, SR Loarie, JS Clark
+
+
+### 5. [OBIS-SEAMAP: The world data center for marine mammal, sea bird and sea turtle distributions](http://tos.org/oceanography/archive/22-2_halpin.html)
+
+_Oceanography_ 
+
+N/A
+
+2009
+
+Halpin PN, AJ Read, E Fujioka, **BD Best**, B Donnelly, LJ Hazen, C Kot, K Urian,  E LaBrecque, C Good, LB Crowder, KD Hyrenbach
+
+
+### 4. [Understanding movement data and movement processes: current and emerging directions](http://www.sciencedirect.com/science/article/pii/S1574954107000477)
+
+_Ecology Letters_ 
+
+N/A
+
+2008
+
+Schick RS, SR Loarie, F Colchero, **BD Best**, A Boustany, DA Conde, PN Halpin, LN Joppa, CM McClellan, JS Clark
+
+
+### 3. [Geospatial web services within a scientific workflow: Predicting marine mammal habitats in a dynamic environment](http://www.sciencedirect.com/science/article/pii/S1574954107000477)
+
+_Ecological Informatics_ 
+
+N/A
+
+2007
+
+**Best BD**, PN Halpin, E Fujioka, AJ Read, SS Qian, LJ Hazen, RS Schick
+
+
+### 2. [Marine Animal Data Applications](http://dusk.geo.orst.edu/djl/arcgis/book.html)
+
+Chapter 4 in _ArcMarine: GIS for a Blue Planet_ 
+
+N/A
+
+2007
+
+Halpin PN, E Fujioka, MS Coyne, **BD Best**
+
+
+### 1. [OBIS-SEAMAP: developing a biogeographic research data commons for the ecological studies of marine mammals, seabirds, and sea turtles]()
+
+_Marine Ecology Progess Series_ 
+
+N/A
+
+2006
+
+Halpin PN, AJ Read, BD Best, KD Hyrenbach KD, E Fujioka, MS Coyne, LB Crowder, SA Freeman, C Spoerri
+
