@@ -29,13 +29,13 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Instructor, trained in Software and Data Carpentry, developing webinars, 2-day workshops and semester courses in environmental data science.
+- Instructor, trained with Software and Data Carpentry, developing webinars, 2-day workshops and semester courses in environmental data science.
 
 - Spatial ecologist expert in commercial ArcGIS and open-source R and Python techniques for environmental problem solving.
 
 - Full stack developer from system administration, cloud computing, relational database design and front-end web development.
 
-- Experienced in statistical analysis, species distribution modeling and machine learning.
+- Experienced in statistical analysis, species distribution modeling, ecological indicator development and machine learning.
 
 
 Disclaimer {#disclaimer}
@@ -52,7 +52,7 @@ Ben Best, PhD {#title}
 
 ### Environmental Data Scientist
 
-Currently working on automation and visualization of environmental data science workflows. Looking for academic home to promulgate these technical skills for solving pressing environmental problems.
+Currently working on automation and visualization of environmental data science workflows. Looking for larger community to promulgate these technical skills for solving pressing environmental problems.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -266,13 +266,13 @@ _submitted_
 Bastille K, S Hardison, L DeWitt, J Brown, J Samhouri, S Gaichas, S Lucey, K Kearney, **BD Best**, S Cross, S Large, E Spooner
 
 
-### 33. Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction
+### 33. [Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction](https://www.sciencedirect.com/science/article/pii/S0308597X19309194)
 
 _Marine Policy_ 
 
 N/A
 
-_accepted_
+2020
 
 **Best BD**, ME Visalli\*, RB Cabral, W Cheung, N Clark, C Garilao, K Kaschner, …, DJ McCauley<br>
 \* _shared first authorship_
