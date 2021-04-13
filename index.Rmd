@@ -1,6 +1,6 @@
 ---
-title: "Ben Best's resume"
-author: Ben Best
+title: "Resume of Benjamin D. Best"
+author: Benjamin D. Best
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Ben Best, PhD](https://ecoquants.com/images/logo_EcoQuants_black.svg){width=50%}
+![Benjamin D. Best, PhD](https://ecoquants.com/images/logo_EcoQuants_black.svg){width=50%}
 <!--![Ben Best, PhD](https://ecoquants.com/images/ben.jpg){width=80%}-->
 
 
@@ -47,7 +47,7 @@ Last updated: `r Sys.Date()`
 Main
 ================================================================================
 
-Ben Best, PhD {#title}
+Benjamin D. Best, PhD {#title}
 --------------------------------------------------------------------------------
 
 ### Environmental Data Scientist
@@ -92,7 +92,7 @@ EcoQuants, LLC
 
 Santa Barbara, CA
 
-present - 2016
+present – 2016
 
 
 ### Lecturer (part-time)
@@ -101,7 +101,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2016 - 2014
+2016 – 2014
 
 
 ### Senior Analyst, Ocean Health Index
@@ -110,7 +110,7 @@ National Center for Ecological Analysis & Synthesis, UCSB
 
 Santa Barbara, CA
 
-2016 - 2014
+2016 – 2014
 
 
 ### Research Associate, Marine Geospatial Ecology Lab
@@ -119,7 +119,7 @@ Nicholas School of the Environment, Duke
 
 Durham, NC
 
-2008 - 2002
+2008 – 2002
 
 
 ### Computer & Network Technologist
@@ -128,7 +128,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2002 - 2000
+2002 – 2000
 
 
 ### Database Developer & IT Consultant
@@ -137,7 +137,7 @@ European Human Rights Foundation
 
 Brussels, Belgium
 
-1999 - 1998
+1999 – 1998
 
 
 ### Lab and Scuba Diving Research Assistant
@@ -146,7 +146,7 @@ Marine Biogeography Lab of Dr. Steven Gaines, UCSB
 
 Santa Barbara, CA
 
-1997 - 1998
+1997 – 1998
 
 
 \pagebreak
@@ -255,13 +255,13 @@ Santa Barbara, CA
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### 34. Improving the IEA approach using principles of open data science
+### 34. [Improving the IEA approach using principles of open data science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)
 
-_Estuaries and Coasts_ 
+_Coastal Management_ 
 
 N/A
 
-_submitted_
+2021
 
 Bastille K, S Hardison, L DeWitt, J Brown, J Samhouri, S Gaichas, S Lucey, K Kearney, **BD Best**, S Cross, S Large, E Spooner
 
