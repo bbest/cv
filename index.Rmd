@@ -255,6 +255,17 @@ Santa Barbara, CA
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 35. [tbeptools: An R package for synthesizing estuarine data for environmental research](https://github.com/tbep-tech/tbeptools/blob/master/paper/paper.pdf) 
+
+_Journal of Open Source Software_
+
+N/A
+
+[_Submitted_](https://github.com/openjournals/joss-reviews/issues/3243)
+
+Beck MW, MN Schrandt, MR Wessel, ET Sherwood, GE Raulerson, AA Budihal, **BD Best**
+
+
 ### 34. [Improving the IEA approach using principles of open data science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)
 
 _Coastal Management_ 
@@ -443,8 +454,6 @@ N/A
 Anadón JD, M del Mar Mancha-Cisneros, **BD Best**, LR Gerber
 
 
-\pagebreak
-
 ### 17. [Assessing global marine biodiversity status within a coupled socio-ecological perspective](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0060284)
 
 _PLoS One_ 
@@ -532,8 +541,6 @@ N/A
 
 Roberts JJ, **BD Best**, DC Dunn, EA Treml, PN Halpin
 
-
-\pagebreak
 
 ### 9. [Program Design: Developing a Comprehensive Data Strategy](http://ian.umces.edu/press/books/publication/259/integrating_and_applying_science_a_handbook_for_effective_coastal_ecosystem_assessment_2010-05-10/)
 
