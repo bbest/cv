@@ -52,7 +52,7 @@ Benjamin D. Best, PhD {#title}
 
 ### Environmental Data Scientist
 
-Currently working on automation and visualization of environmental data science workflows. Looking for larger community to promulgate these technical skills for solving pressing environmental problems.
+Currently working on automation and visualization of environmental data and scientific workflows. Seeking to continue promulgating these technical skills for solving pressing environmental problems.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -92,8 +92,15 @@ EcoQuants, LLC
 
 Santa Barbara, CA
 
-present – 2016
+2016 - present
 
+### Lecturer (part-time)
+
+Masters in Environmental Data Science, University of California
+
+Santa Barbara, CA
+
+2020 - present
 
 ### Lecturer (part-time)
 
@@ -101,7 +108,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2016 – 2014
+2014 – 2016
 
 
 ### Senior Analyst, Ocean Health Index
@@ -110,7 +117,7 @@ National Center for Ecological Analysis & Synthesis, UCSB
 
 Santa Barbara, CA
 
-2016 – 2014
+2014 – 2016
 
 
 ### Research Associate, Marine Geospatial Ecology Lab
@@ -119,7 +126,7 @@ Nicholas School of the Environment, Duke
 
 Durham, NC
 
-2008 – 2002
+2002 – 2008
 
 
 ### Computer & Network Technologist
@@ -128,7 +135,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2002 – 2000
+2000 – 2002
 
 
 ### Database Developer & IT Consultant
@@ -137,7 +144,7 @@ European Human Rights Foundation
 
 Brussels, Belgium
 
-1999 – 1998
+1998 – 1999
 
 
 ### Lab and Scuba Diving Research Assistant
@@ -153,6 +160,20 @@ Santa Barbara, CA
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### [Machine Learning in Environmental Science](https://bbest.github.io/eds232-ml/)
+Masters in Environmental Data Science, University of California
+
+Santa Barbara, CA
+
+2022
+
+### [Team Science, Collaborative Analysis and Project Management](https://bbest.github.io/eds211-team/)
+Masters in Environmental Data Science, University of California
+
+Santa Barbara, CA
+
+2021
 
 ### Geographic Information Systems (GIS)
 Cal State Channel Islands
@@ -250,18 +271,46 @@ Santa Barbara, CA
 1996
 
 
-\pagebreak
-
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### 35. [tbeptools: An R package for synthesizing estuarine data for environmental research](https://github.com/tbep-tech/tbeptools/blob/master/paper/paper.pdf) 
+### 38. [Novel Marine Energy Environmental Compliance Reporting Application Summarizes Disparate Content by Tags and Location](https://doi.org/10.4043/31946-MS)
+
+_Offshore Technology Conference_
+
+N/A
+
+2022
+
+Barr ZW, **BD Best**, WJ Peplinski, C Jones, G Chang, JD Roberts, S Kramer
+
+### 37. [Webenizing Condition Reports: Communicating Data-Driven Ecosystem Indicators in a Visually Engaging and Interactive Online Platform](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)
+
+_National Marine Sanctuaries Conservation Series_
+
+N/A
+
+2021
+
+Spector P, **BD Best**, J Ranganathan, T Murray, JA Brown, C Caldow, G Canonico, A DeVogelaere
+
+### 36. [Reef-Fish Abundance, Biomass, and Biodiversity Inside and Outside No-Take Marine Zones in the Florida Keys National Marine Sanctuary: 1999–2018](https://doi.org/10.5670/oceanog.2021.214)
+
+_Oceanography_
+
+N/A
+
+2021
+
+Medina M, C Estes, **BD Best**, C Stallings, E Montes, L McEachron, F Muller-Karger
+
+### 35. [tbeptools: An R package for synthesizing estuarine data for environmental research](https://joss.theoj.org/papers/10.21105/joss.03485) 
 
 _Journal of Open Source Software_
 
 N/A
 
-[_Submitted_](https://github.com/openjournals/joss-reviews/issues/3243)
+2021
 
 Beck MW, MN Schrandt, MR Wessel, ET Sherwood, GE Raulerson, AA Budihal, **BD Best**
 
