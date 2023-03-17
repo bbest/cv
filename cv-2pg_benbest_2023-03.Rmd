@@ -1,0 +1,207 @@
+---
+title: "Resume of Benjamin D. Best"
+author: Benjamin D. Best
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Benjamin D. Best, PhD](https://ecoquants.com/images/logo_EcoQuants_black.svg){width=50%}
+<!--![Ben Best, PhD](https://ecoquants.com/images/ben.jpg){width=80%}-->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ben@ecoquants.com
+- <i class="fa fa-github"></i> [github.com/bbest](https://github.com/bbest)
+- <i class="fa fa-phone"></i> +1 805-705-9770
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Instructor, trained with Software and Data Carpentry, developing webinars, 2-day workshops and semester courses in environmental data science.
+
+- Spatial ecologist expert in commercial ArcGIS and open-source R and Python techniques for environmental problem solving.
+
+- Full stack developer from system administration, cloud computing, relational database design and front-end web development.
+
+- Experienced in statistical analysis, species distribution modeling, ecological indicator development and machine learning.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated: `r Sys.Date()`
+
+
+Main
+================================================================================
+
+Benjamin D. Best, PhD {#title}
+--------------------------------------------------------------------------------
+
+### Environmental Data Scientist
+
+Currently working on automation and visualization of environmental data and scientific workflows. Seeking to continue promulgating these technical skills for solving pressing environmental problems.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D.	in Marine Science and Conservation
+
+Nicholas School of the Environment, Duke
+
+Durham, NC
+
+2016
+
+Dissertation: [Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks](http://dukespace.lib.duke.edu/dspace/handle/10161/12101)
+
+### M.S. in Environmental Sciences
+Nicholas School of the Environment, Duke
+
+Durham, NC
+
+2007
+
+Thesis: Geospatial Modeling of Habitat and Connectivity
+
+### B.A. in Geography, B.S. in Aquatic Biology 
+University of California Santa Barbara (UCSB)
+ 
+Santa Barbara, CA
+
+1998
+
+Recent Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Environmental Data Scientist & Founder
+
+EcoQuants, LLC
+
+Santa Barbara, CA
+
+2016 - present
+
+### Lecturer (part-time)
+
+Masters in Environmental Data Science / Bren School of Env. Sci. & Mgmt., University of California
+
+Santa Barbara, CA
+
+2021 - 2022 / 2014 – 2016
+
+### Senior Analyst, Ocean Health Index
+
+National Center for Ecological Analysis & Synthesis, UCSB
+
+Santa Barbara, CA
+
+2014 – 2016
+
+Recent Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### [Machine Learning in Environmental Science](https://bbest.github.io/eds232-ml/)
+Masters in Environmental Data Science, University of California
+
+Santa Barbara, CA
+
+2022
+
+### [Team Science, Collaborative Analysis and Project Management](https://bbest.github.io/eds211-team/)
+Masters in Environmental Data Science, University of California
+
+Santa Barbara, CA
+
+2021
+
+Recent Related Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Novel Marine Energy Environmental Compliance Reporting Application Summarizes Disparate Content by Tags and Location](https://doi.org/10.4043/31946-MS)
+
+_Offshore Technology Conference_
+
+N/A
+
+2022
+
+Barr ZW, **BD Best**, WJ Peplinski, C Jones, G Chang, JD Roberts, S Kramer
+
+
+### [Webenizing Condition Reports: Communicating Data-Driven Ecosystem Indicators in a Visually Engaging and Interactive Online Platform](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)
+
+_National Marine Sanctuaries Conservation Series_
+
+N/A
+
+2021
+
+Spector P, **BD Best**, J Ranganathan, T Murray, JA Brown, C Caldow, G Canonico, A DeVogelaere
+
+### [Reef-Fish Abundance, Biomass, and Biodiversity Inside and Outside No-Take Marine Zones in the Florida Keys National Marine Sanctuary: 1999–2018](https://doi.org/10.5670/oceanog.2021.214)
+
+_Oceanography_
+
+N/A
+
+2021
+
+Medina M, C Estes, **BD Best**, C Stallings, E Montes, L McEachron, F Muller-Karger
+
+### [tbeptools: An R package for synthesizing estuarine data for environmental research](https://joss.theoj.org/papers/10.21105/joss.03485) 
+
+_Journal of Open Source Software_
+
+N/A
+
+2021
+
+Beck MW, MN Schrandt, MR Wessel, ET Sherwood, GE Raulerson, AA Budihal, **BD Best**
+
+### [Improving the IEA approach using principles of open data science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)
+
+_Coastal Management_ 
+
+N/A
+
+2021
+
+Bastille K, S Hardison, L DeWitt, J Brown, J Samhouri, S Gaichas, S Lucey, K Kearney, **BD Best**, S Cross, S Large, E Spooner
+
+
+### [Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction](https://www.sciencedirect.com/science/article/pii/S0308597X19309194)
+
+_Marine Policy_ 
+
+N/A
+
+2020
+
+**Best BD**, ME Visalli\*, RB Cabral, W Cheung, N Clark, C Garilao, K Kaschner, …, DJ McCauley<br>
+\* _shared first authorship_
+
+
+
+### [Submarine Cable Analysis for U.S. Marine Renewable Energy Development](https://www.nrel.gov/docs/fy20osti/71125.pdf)
+
+Golden, CO: National Renewable Energy Laboratory. NREL/TP-5000-71125.
+
+N/A
+
+2019
+
+**Best BD**, L Kilcher
+
