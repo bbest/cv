@@ -274,6 +274,16 @@ Santa Barbara, CA
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 39. [SanctSound: Building Data Systems for Sound Decisions](https://doi.org/10.1007/978-3-031-10417-6_58-1)
+
+in _The Effects of Noise on Aquatic Life: Principles and Practical Considerations_
+
+N/A
+
+2024
+
+Hatch, L., J Barkowski, S Baumann-Pickering, CW Bell, **BD Best**, J Brown, A DeAngelis, J Joseph, E Kim,  D Kitchen, A Kok, A Kügler, A Kumar, M Lammers, T Margolina, M McKenna, K Merkens, LP Reeves, TJ Rowell, … E Zang
+
 ### 38. [Novel Marine Energy Environmental Compliance Reporting Application Summarizes Disparate Content by Tags and Location](https://doi.org/10.4043/31946-MS)
 
 _Offshore Technology Conference_
