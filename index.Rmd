@@ -274,7 +274,18 @@ Santa Barbara, CA
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### 39. [SanctSound: Building Data Systems for Sound Decisions](https://doi.org/10.1007/978-3-031-10417-6_58-1)
+
+### 45. [CStories: Digital Tools to Facilitate Community Participation in Offshore Wind Planning and Development](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1460632)
+
+_2024 AGU Ocean Sciences Meeting_
+
+N/A
+
+2024
+
+Chang G, **BD Best**, S Kramer
+
+### 44. [SanctSound: Building Data Systems for Sound Decisions](https://doi.org/10.1007/978-3-031-10417-6_58-1)
 
 in _The Effects of Noise on Aquatic Life: Principles and Practical Considerations_
 
@@ -284,7 +295,27 @@ N/A
 
 Hatch, L., J Barkowski, S Baumann-Pickering, CW Bell, **BD Best**, J Brown, A DeAngelis, J Joseph, E Kim,  D Kitchen, A Kok, A Kügler, A Kumar, M Lammers, T Margolina, M McKenna, K Merkens, LP Reeves, TJ Rowell, … E Zang
 
-### 38. [Novel Marine Energy Environmental Compliance Reporting Application Summarizes Disparate Content by Tags and Location](https://doi.org/10.4043/31946-MS)
+### 43. [Empowering Communities to Participate in Marine Energy Planning and Development](https://submissions.evolvingcities.org/proc-ewtec/article/view/281)
+
+_Proceedings of the European Wave and Tidal Energy Conference_
+
+N/A
+
+2023
+
+Chang G, **BD Best**, S Kramer
+
+### 42. [Empowering Communities with a Multi-Use Decision Support Dashboard to Participate in Marine Renewable Energy (MRE) Planning and Development](https://www.osti.gov/biblio/1967926)
+
+_USDOE EERE Technical Report_
+
+N/A
+
+2023
+
+Chang G, **BD Best**, S Kramer
+
+### 41. [Novel Marine Energy Environmental Compliance Reporting Application Summarizes Disparate Content by Tags and Location](https://doi.org/10.4043/31946-MS)
 
 _Offshore Technology Conference_
 
@@ -294,7 +325,18 @@ N/A
 
 Barr ZW, **BD Best**, WJ Peplinski, C Jones, G Chang, JD Roberts, S Kramer
 
-### 37. [Webenizing Condition Reports: Communicating Data-Driven Ecosystem Indicators in a Visually Engaging and Interactive Online Platform](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)
+
+### 40. [Marine Energy Environmental Toolkit for Permitting and Licensing](https://www.osti.gov/biblio/1922645)
+
+_USDOE EERE Technical Report_
+
+N/A
+
+2022
+
+West A, Z Barr, C Jones, G Chang, S Kramer, J Roberts, W Peplinski, **BD Best**, N Johnson, M Caspard
+
+### 39. [Webenizing Condition Reports: Communicating Data-Driven Ecosystem Indicators in a Visually Engaging and Interactive Online Platform](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)
 
 _National Marine Sanctuaries Conservation Series_
 
@@ -304,7 +346,7 @@ N/A
 
 Spector P, **BD Best**, J Ranganathan, T Murray, JA Brown, C Caldow, G Canonico, A DeVogelaere
 
-### 36. [Reef-Fish Abundance, Biomass, and Biodiversity Inside and Outside No-Take Marine Zones in the Florida Keys National Marine Sanctuary: 1999–2018](https://doi.org/10.5670/oceanog.2021.214)
+### 38. [Reef-Fish Abundance, Biomass, and Biodiversity Inside and Outside No-Take Marine Zones in the Florida Keys National Marine Sanctuary: 1999–2018](https://doi.org/10.5670/oceanog.2021.214)
 
 _Oceanography_
 
@@ -314,7 +356,7 @@ N/A
 
 Medina M, C Estes, **BD Best**, C Stallings, E Montes, L McEachron, F Muller-Karger
 
-### 35. [tbeptools: An R package for synthesizing estuarine data for environmental research](https://joss.theoj.org/papers/10.21105/joss.03485) 
+### 37. [tbeptools: An R package for synthesizing estuarine data for environmental research](https://joss.theoj.org/papers/10.21105/joss.03485) 
 
 _Journal of Open Source Software_
 
@@ -325,7 +367,7 @@ N/A
 Beck MW, MN Schrandt, MR Wessel, ET Sherwood, GE Raulerson, AA Budihal, **BD Best**
 
 
-### 34. [Improving the IEA approach using principles of open data science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)
+### 36. [Improving the IEA approach using principles of open data science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155)
 
 _Coastal Management_ 
 
@@ -336,7 +378,7 @@ N/A
 Bastille K, S Hardison, L DeWitt, J Brown, J Samhouri, S Gaichas, S Lucey, K Kearney, **BD Best**, S Cross, S Large, E Spooner
 
 
-### 33. [Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction](https://www.sciencedirect.com/science/article/pii/S0308597X19309194)
+### 35. [Data-driven approach for highlighting priority areas for protection in marine areas beyond national jurisdiction](https://www.sciencedirect.com/science/article/pii/S0308597X19309194)
 
 _Marine Policy_ 
 
@@ -347,10 +389,20 @@ N/A
 **Best BD**, ME Visalli\*, RB Cabral, W Cheung, N Clark, C Garilao, K Kaschner, …, DJ McCauley<br>
 \* _shared first authorship_
 
+### 34. [A Marine Biodiversity Observation Network (MBON) Pole-to-Pole of the Americas in Support of Conservation and Sustainable Use of Living Resources in the Sea](https://ui.adsabs.harvard.edu/abs/2019AGUFMGC41C..05M/abstract)
 
-### 32. [Submarine Cable Analysis for U.S. Marine Renewable Energy Development](https://www.nrel.gov/docs/fy20osti/71125.pdf)
+_AGU Fall Meeting Abstracts_
 
-Golden, CO: National Renewable Energy Laboratory. NREL/TP-5000-71125.
+N/A
+
+2019
+
+Montes, E, G Canonico, MT Kavanaugh, P Miloslavich, E Klein, **BD Best**, S Habtes, EG Escobar-Briones, G Bigatti, and M Di Domenico
+
+
+### 33. [Submarine Cable Analysis for U.S. Marine Renewable Energy Development](https://www.nrel.gov/docs/fy20osti/71125.pdf)
+
+_NREL Technical Report_
 
 N/A
 
@@ -358,6 +410,15 @@ N/A
 
 **Best BD**, L Kilcher
 
+### 32. [Competing Use Analysis for Offshore Renewables and Subsea Cables](https://www.osti.gov/biblio/1561978)
+
+_MHKDR Dataset_
+
+N/A
+
+2019
+
+**Best BD**, L Kilcher
 
 ### 31. [Global Observational Needs and Resources for Marine Biodiversity](https://www.frontiersin.org/articles/10.3389/fmars.2019.00367/full)
 
