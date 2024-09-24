@@ -50,9 +50,9 @@ Main
 Benjamin D. Best, PhD {#title}
 --------------------------------------------------------------------------------
 
-### Environmental Data Scientist
+### Marine Data Scientist
 
-Currently working on automation and visualization of environmental data and scientific workflows. Seeking to continue promulgating these technical skills for solving pressing environmental problems.
+Currently working on automation and visualization of oceanographic and marine biodiversity data and scientific workflows for various government, academic and NGO clients. Seek to continue promulgating these technical skills for solving pressing environmental problems.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -92,7 +92,7 @@ EcoQuants, LLC
 
 Santa Barbara, CA
 
-2016 - present
+2016–present
 
 ### Lecturer (part-time)
 
@@ -100,7 +100,16 @@ Masters in Environmental Data Science, University of California
 
 Santa Barbara, CA
 
-2021 - 2022
+2021–'22
+
+### Lecturer (part-time)
+
+Environmental Science & Resource Management, California State University Channel Islands
+
+Camarillo, CA
+
+2020
+<!-- 1/2020 - 5/2020 -->
 
 ### Lecturer (part-time)
 
@@ -108,7 +117,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2014 – 2016
+2014–'16
 
 
 ### Senior Analyst, Ocean Health Index
@@ -117,7 +126,7 @@ National Center for Ecological Analysis & Synthesis, UCSB
 
 Santa Barbara, CA
 
-2014 – 2016
+2014–'16
 
 
 ### Research Associate, Marine Geospatial Ecology Lab
@@ -126,7 +135,7 @@ Nicholas School of the Environment, Duke
 
 Durham, NC
 
-2002 – 2008
+2002–'08
 
 
 ### Computer & Network Technologist
@@ -135,7 +144,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2000 – 2002
+2000–'02
 
 
 ### Database Developer & IT Consultant
@@ -144,7 +153,7 @@ European Human Rights Foundation
 
 Brussels, Belgium
 
-1998 – 1999
+1998–'99
 
 
 ### Lab and Scuba Diving Research Assistant
@@ -153,10 +162,10 @@ Marine Biogeography Lab of Dr. Steven Gaines, UCSB
 
 Santa Barbara, CA
 
-1997 – 1998
+1997–'98
 
 
-\pagebreak
+<!-- \pagebreak -->
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -215,7 +224,7 @@ Bren School of Env. Sci. & Mgmt., UCSB
 
 Santa Barbara, CA
 
-2014, 2015
+2014,'15
 
 ### Marine GIS
 Nicholas School of the Env., Duke
